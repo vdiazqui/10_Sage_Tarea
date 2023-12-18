@@ -32,13 +32,14 @@ Esta tarea implica una variedad de conceptos matemáticos, desde operaciones bá
    - Determina si 3 es un divisor de 234878.
 
 ### 10. Divisores de Números Enteros:
-    - Encuentra todos los divisores de los números 134, 491, 422 y 1002.
+   - Encuentra todos los divisores de los números 134, 491, 422 y 1002.
 
 ### 11. Números Primos:
    - Identifica cuáles de los números del ejercicio anterior son primos.
 
 ### 12. Máximo Común Divisor y Mínimo Común Múltiple:
-     Calcula el máximo común divisor (mcd) y el mínimo común múltiple (mcm) para los pares de números (2,5), (4,10) y (18, 51).
+   - Calcula el máximo común divisor (mcd) y el mínimo común múltiple (mcm) para los pares de números (2,5), (4,10) y (18, 51).
+     
 
 Cada pregunta aborda un aspecto diferente de las matemáticas, desde operaciones básicas hasta conceptos más avanzados como logaritmos y números primos. Este conjunto diverso de problemas tiene como objetivo evaluar tu comprensión y aplicación de una variedad de conceptos matemáticos.
 
