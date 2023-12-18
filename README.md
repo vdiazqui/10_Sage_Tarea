@@ -1,5 +1,7 @@
 # 10_Sage_Tarea
 
+https://github.com/vdiazqui/10_Sage_Tarea.git 
+
 ## Descripción General:
 
 Esta tarea implica una variedad de conceptos matemáticos, desde operaciones básicas hasta propiedades avanzadas. A continuación, se presenta una breve descripción de cada pregunta y las instrucciones correspondientes:
